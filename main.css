@@ -1,6 +1,7 @@
 html {
 	margin: 20px;
 	/*background-color: #154360;*/
+	background: url(image/maxresdefault.jpg) no-repeat; background-size: 100;
 }
 /* Add a black background color to the top navigation */
 .topnav {
